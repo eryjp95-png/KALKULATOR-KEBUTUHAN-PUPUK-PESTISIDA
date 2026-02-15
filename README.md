@@ -294,9 +294,4 @@ Jika ada pertanyaan atau butuh bantuan:
 
 ---
 
-## 🙏 Acknowledgments
-
-- Kementerian Pertanian RI
-- Dinas Pertanian dan Ketahanan Pangan
-- Balai Penelitian Tanah
 
